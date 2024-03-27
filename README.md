@@ -12,8 +12,9 @@ For 7 years, I had a general purpose website where I put different posts about d
 Unfortunately, I handed over this website and am no longer responsible for it. But my new website which opened in November 2023 is [HerMinal.COM](https://herminal.com).
 So I hope to achieve my goals on this website. This website is currently personal with the purpose of publishing posts and downloadable products.
 
-[![Telegram](https://img.shields.io/badge/telegram-f0f0f0?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/herminalir)
+[![Telegram](https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/herminalir)
 [![Instagram](https://img.shields.io/badge/Instagram-962fbf?&style=for-the-badge&logoColor=white&logo=instagram)](https://instagram.com/nabeqe)
+[![X](https://img.shields.io/badge/X.COM-000000?&style=for-the-badge&logoColor=white&logo=x)](https://x.com/nabegham)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4314962/nabeghe)
 [![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/nabeghe/)
 [![HerMinal](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://herminal.com)
