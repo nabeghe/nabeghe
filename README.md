@@ -2,6 +2,8 @@
 
 I'm Hadi Akbarzadeh
 
+I will release a framework for Telegram bots in the future. The documentation hasn’t been written yet.
+
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/herminalir)
 [![Instagram](https://img.shields.io/badge/Instagram-962fbf?&style=for-the-badge&logoColor=white&logo=instagram)](https://instagram.com/nabeqe)
 [![X](https://img.shields.io/badge/X.COM-000000?&style=for-the-badge&logoColor=white&logo=x)](https://x.com/nabegham)
