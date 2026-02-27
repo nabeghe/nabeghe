@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I plan to release a framework for Telegram bot development in the future. It's not stable yet, and the documentation hasn't been written either.
-
 I’m currently fun-employed 😎 So if you wanna support me, feel free to drop a donation [here](https://elatel.ir)💸❤️. all donation methods are listed there. Pick your fighter.
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/nabeqe)
