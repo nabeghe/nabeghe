@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m currently fun-employed 😎 So if you wanna support me, feel free to drop a donation [here](https://elatel.ir)💸❤️. all donation methods are listed there. Pick your fighter.
+If you'd like to support me, feel free to drop a donation [here](https://elatel.ir)💸❤️. all donation methods are listed there. Pick your fighter.
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/elsiom)
 [![X](https://img.shields.io/badge/X.COM-000000?&style=for-the-badge&logoColor=white&logo=x)](https://x.com/nabegham)
