@@ -4,6 +4,4 @@ If you'd like to support me, feel free to drop a donation [here](https://elatel.
 
 [![Telegram](https://img.shields.io/badge/telegram-0088cc?&style=for-the-badge&logoColor=white&logo=telegram)](https://t.me/elsiom)
 [![X](https://img.shields.io/badge/X.COM-000000?&style=for-the-badge&logoColor=white&logo=x)](https://x.com/nabegham)
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/4314962/nabeghe)
-[![LinkedIn](https://img.shields.io/badge/linkedin-f0f0f0?&style=for-the-badge&logo=linkedin&logoColor=white&color=0e76a8)](https://www.linkedin.com/in/nabeghe/)
 [![HerMinal](https://img.shields.io/badge/personal%20blog-f0f0f0?&style=for-the-badge&logoColor=white&color=1a1d24)](https://herminal.com)
